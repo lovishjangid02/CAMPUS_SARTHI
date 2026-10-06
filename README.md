@@ -83,3 +83,12 @@ CAMPUS_SARTHI/
 │
 ├── .gitignore
 └── README.md
+
+
+```markdown
+## ⚙️ How to Run
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/lovishjangid02/CAMPUS_SARTHI.git
